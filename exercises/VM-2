@@ -1,0 +1,19 @@
+Learning Objective
+Transform an appended dataset to break out dimensions and filter to just paid social data.
+
+Context
+This task will make the data that we combined much more usable to the end user. With cleanly broken out dimensions and no unecessary data from additional sources we'll be able to create a crystal clear representation of the data. With no additional sources included the end user will be able to gain immediate insights.
+
+Steps to be executed by the student
+
+Step 1: Select the 'transform data' button in the top barto open up the power query editor.
+Step 2: Select the campaign column and click the split column button in the top bar and then select by delimiter. When the delimiter box pops up select custom and then '_'.
+Step 3: Once the columns are split rename the new fields. Campaign.1 = platform, Campaign.2 = channel, Campaign.3 = tactic,  Campaign.4 = campaign name, Campaign.5 = adtype
+Step 4: Filter the newly created channel column to just include 'paidsocial'
+Step 5: Close and apply the power query and create a table including all of the newly created dimensions and associated metrics.
+
+Exercise question:
+How many clicks does the bi-tableau campaign have associated?
+
+End goal:
+Picture uploaded seperately
