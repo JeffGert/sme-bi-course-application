@@ -1,0 +1,21 @@
+Learning Objective
+Append two paid social datasets in Power BI.
+
+Context
+3 - 4 sentence description of why it’s important to learn how to do this task (linking back to the learning objective). Explain how this would be used in a real-life situation. Why is it useful, what problem does it solve?
+
+This task is the backbone of any digital marketing analytics reporting. It will be repeated over and over again with many different datasets from many different platforms. Being able to understand the basics of merging two disparate datasets will allow any individual the beginnings of getting deeper marketing insights.
+
+Steps to be executed by the student
+
+Step 1: Select the 'import data from excel button' in PowerBI and select your 'PaidSocialDatasets-VM' file.
+Step 2: Select both the 'FacebookAds' dataset and the 'GoogleAnalytics' dataset and click the load button in the dialogue box
+Step 3: After the data is loaded select the 'transform data' button in the top bar of PowerBI.
+Step 4: In the Power Query Editor window select the append queries in the top bar.
+Step 5: Once the append queries dialogue box opens select '2 tables' and select 'GoogleAnalytics' as the table to append
+
+Exercise question:
+How many rows do you see in the power query editor box?
+
+End goal:
+Picture uploaded seperately
